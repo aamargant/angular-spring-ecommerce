@@ -31,7 +31,7 @@ public class Product {
     @Column(name = "description")
     private String description;
 
-    @Column(name = "uint_price")
+    @Column(name = "unit_price")
     private BigDecimal unitPrice;
 
     @Column(name = "image_url")
@@ -40,7 +40,7 @@ public class Product {
     @Column(name = "active")
     private boolean active;
 
-    @Column(name = "units_in_stocks")
+    @Column(name = "units_in_stock")
     private int unitsInStock;
 
     @Column(name = "date_created")
