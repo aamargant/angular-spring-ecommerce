@@ -3,3 +3,7 @@
 02-backend/spring-boot-ecommerce/src/main/resources/application.properties
 03-frontend/angular-ecommerce/node_modules
 03-frontend/angular-ecommerce/package-lock.json
+03-frontend/angular-ecommerce/.editorconfig
+03-frontend/angular-ecommerce/.browserslistrc
+03-frontend/angular-ecommerce/tsconfig.app.json
+03-frontend/angular-ecommerce/tsconfig.spec.json
